@@ -123,4 +123,8 @@ public class UserRepositoryTest {
     //        user.setVersion(2);
     //        userRepository.saveAndFlush(user);
     //    }
+
+    public void test(){
+
+    }
 }
